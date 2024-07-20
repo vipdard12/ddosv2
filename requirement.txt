@@ -1,0 +1,4 @@
+pymongo
+aiohttp
+telebot
+fastapi psutil
